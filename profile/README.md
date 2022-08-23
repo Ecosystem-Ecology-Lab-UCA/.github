@@ -1,12 +1,7 @@
-## Hi there 👋
+## Ahoy there me mateys! And welcome aboard the “Green pearl”, the ship of the “Ecosystem Ecology Lab» from the University of Cádiz!
 
-<!--
+The “Ecosystem Ecology Lab» from the University of Cádiz covers many aspects related to the biodiversity, structure and functioning of terrestrial ecosystems within a framework of plant-soil-microbial interactions. In our lab, we seek to understand how ecosystems are structured and function in a global change context, for which we use a wide range of experimental and analytical approaches. We also seek to develop applied nature-based strategies to stop or even reverse negative environmental impacts, particularly in the context of managed ecosystems such as grasslands and agroecosystems. At the “Ecosystem Ecology Lab”, we currently coordinate two global sampling initiatives, one in vineyards (Grapevine Microbiome Survey) and one in grasslands (SpatialNet).
 
-**Here are some ideas to get you started:**
+The lab is based in Puerto Real, Cádiz, literally next to the “Natural Park of the Bay of Cádiz”, and thus surrounded by a wealth of species-rich ecosystem types such as marshes, seasonally flooded grasslands, and Mediterranean forests and shrublands. And the Atlantic Ocean. The climate of our region is oceanic Mediterranean, with mild winters and summers, which means that soil, plant, and animal communities find particularly suitable conditions to thrive most of the year. This fact, together with the role as climate refugium during the last glaciations and its crossroad position between the European and African continents, contributes to explain the high levels of biodiversity found in our area. Due to this fact, we are also committed to describe and preserve the biodiversity and ecological and cultural value of these unique ecosystems. Moreover, given that our teaching expertise is linked to Botany, we are always keen to work with administrations and other groups of interests in the development of vegetation studies and floras.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Arrr!
